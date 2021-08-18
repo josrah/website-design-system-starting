@@ -1,0 +1,150 @@
+body {
+    margin: 0 10%;
+    width: auto;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Proza Libre";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+p {
+    font-family: "Open Sans";
+    font-size: 16px;
+}
+
+section {
+    display: block;
+    width: 1265px;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+/* Section for colors */
+
+.color-container {
+    margin: 10px auto;
+    width: 851px;
+}
+
+.color-box {
+    display: inline-block;
+    height: 135px;
+    width: 135px;
+    border: solid black 1px;
+    padding: 10px;
+    margin: 5px;
+    vertical-align: middle;
+}
+
+.color-name {
+    margin: 37.5px auto;
+}
+
+.color-name p {
+    text-align: center;
+}
+
+#eggshell {
+    background-color: #fdfdfd;
+}
+
+#terra-cotta {
+    background-color: #e07a5f;
+}
+
+#independence {
+    background-color: #3d405b;
+    color:white;
+}
+
+#green-sheen {
+    background-color: #81b29a;
+}
+
+#deep-champange {
+    background-color: #f2cc8f;
+}
+
+/* Section for fonts */
+
+.font-container {
+    margin: 10px auto;
+    width: 796px;
+}
+
+.font-box {
+    display: inline-block;
+    height: 168px;
+    width: 364px;
+    border: solid black 1px;
+    padding: 10px;
+    margin: 5px;
+    vertical-align: middle;
+}
+
+.font-box p {
+    text-align: center;
+}
+
+.proza-libre {
+    font-family: "Proza Libre";
+}
+
+#underline {
+    text-decoration: underline;
+    text-align: center;
+    margin: 10px;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#italic {
+    font-style: italic;
+}
+
+/* Section for text styles */
+
+.text-container {
+    margin: 10px auto;
+    width: 1265px;
+}
+
+.text-box {
+    display: inline-block;
+    height: 140px;
+    width: 387px;
+    padding: 10px;
+    border: solid black 1px;
+    padding: 10px;
+    margin: 5px;
+    vertical-align: middle;
+}
+
+#text-style-title {
+    text-align: center;
+    margin: 10px;
+}
+
+ul {
+    margin: 10px;
+}
+
+li {
+    font-family: "Open Sans";
+    font-size: 16px;
+}
